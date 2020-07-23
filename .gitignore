@@ -1,0 +1,6 @@
+Debug
+*.sdf
+*.sln
+文件压缩1/test.txt.*
+文件压缩1/文件压缩1.*
+文件压缩1/Debug
